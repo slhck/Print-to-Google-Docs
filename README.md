@@ -37,5 +37,9 @@ The workflow is now available in the PDF menu when you print anything. From anyw
 
 I tested this on OS X 10.6.7. The scripts in the workflows are written to use GoogleCL from `/usr/local/bin/google`. If that path changes, you might want to manually adjust the scripts.
 
+## Acknowledgements
+
+The script to upload the file was originally written by Daniel Simmons, [dan at dans.im](dan@dans.im). I made some minor adjustments.
+
   [2]: http://code.google.com/p/googlecl
   [7]: http://i.stack.imgur.com/qNkIh.png
